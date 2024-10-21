@@ -43,3 +43,17 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+matplotlib
+numpy
+geopandas
+shapely
+cartagen == 1.0.0
+tqdm
+RISE
+pydeck
+progressbar2
+contextily
+mapclassify
+
+
